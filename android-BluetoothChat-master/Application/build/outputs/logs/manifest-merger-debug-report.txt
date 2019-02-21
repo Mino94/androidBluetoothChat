@@ -1,0 +1,140 @@
+-- Merging decision tree log ---
+provider#android.support.v4.content.FileProvider
+INJECTED from /home/keti/다운로드/android-BluetoothChat-master_1byte/android-BluetoothChat-master/Application/src/main/AndroidManifest.xml:48:9-56:20
+	android:grantUriPermissions
+		ADDED from /home/keti/다운로드/android-BluetoothChat-master_1byte/android-BluetoothChat-master/Application/src/main/AndroidManifest.xml:52:13-47
+	android:authorities
+		INJECTED from /home/keti/다운로드/android-BluetoothChat-master_1byte/android-BluetoothChat-master/Application/src/main/AndroidManifest.xml
+		ADDED from /home/keti/다운로드/android-BluetoothChat-master_1byte/android-BluetoothChat-master/Application/src/main/AndroidManifest.xml:50:13-64
+	android:exported
+		ADDED from /home/keti/다운로드/android-BluetoothChat-master_1byte/android-BluetoothChat-master/Application/src/main/AndroidManifest.xml:51:13-37
+	android:name
+		ADDED from /home/keti/다운로드/android-BluetoothChat-master_1byte/android-BluetoothChat-master/Application/src/main/AndroidManifest.xml:49:13-67
+manifest
+ADDED from /home/keti/다운로드/android-BluetoothChat-master_1byte/android-BluetoothChat-master/Application/src/main/AndroidManifest.xml:18:1-66:12
+INJECTED from /home/keti/다운로드/android-BluetoothChat-master_1byte/android-BluetoothChat-master/Application/src/main/AndroidManifest.xml:18:1-66:12
+INJECTED from /home/keti/다운로드/android-BluetoothChat-master_1byte/android-BluetoothChat-master/Application/src/main/AndroidManifest.xml:18:1-66:12
+MERGED from [com.android.support:support-v4:27.0.2] /home/keti/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/886ae277ecf3f6e1724f75632cd15387/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:gridlayout-v7:27.0.2] /home/keti/.gradle/caches/transforms-1/files-1.1/gridlayout-v7-27.0.2.aar/76b79617b232468549b0bb716e3deece/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/keti/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/e2b81f57d12ae451571c53241b22b531/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/keti/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/af21b2b1c30c550b6e2df506bb86fe47/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/keti/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/90572edbc06135258436daf8d7f41658/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /home/keti/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/9c48accf785dbb3f77ef2197d3b4fe69/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/keti/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/edd3691424ebb7a943265dc35ab7c9c8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/keti/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/964c642ed0a22170065fdf449d0dc8aa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/keti/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/bc114c99837777641aa4992dd5167b1c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/keti/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/a940c016f28e5166dcd78fbad8fee6ef/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /home/keti/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/c9290dc27fe8c8bba1b87028cb590059/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/keti/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/2c95a6af7d060a7ca3c488d33ab4be7b/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/keti/다운로드/android-BluetoothChat-master_1byte/android-BluetoothChat-master/Application/src/main/AndroidManifest.xml:18:1-66:12
+INJECTED from /home/keti/다운로드/android-BluetoothChat-master_1byte/android-BluetoothChat-master/Application/src/main/AndroidManifest.xml:18:1-66:12
+	package
+		ADDED from /home/keti/다운로드/android-BluetoothChat-master_1byte/android-BluetoothChat-master/Application/src/main/AndroidManifest.xml:19:5-48
+	android:versionName
+		ADDED from /home/keti/다운로드/android-BluetoothChat-master_1byte/android-BluetoothChat-master/Application/src/main/AndroidManifest.xml:22:5-30
+		INJECTED from /home/keti/다운로드/android-BluetoothChat-master_1byte/android-BluetoothChat-master/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/keti/다운로드/android-BluetoothChat-master_1byte/android-BluetoothChat-master/Application/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/keti/다운로드/android-BluetoothChat-master_1byte/android-BluetoothChat-master/Application/src/main/AndroidManifest.xml:20:5-63
+	android:versionCode
+		ADDED from /home/keti/다운로드/android-BluetoothChat-master_1byte/android-BluetoothChat-master/Application/src/main/AndroidManifest.xml:21:5-28
+		INJECTED from /home/keti/다운로드/android-BluetoothChat-master_1byte/android-BluetoothChat-master/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/keti/다운로드/android-BluetoothChat-master_1byte/android-BluetoothChat-master/Application/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/keti/다운로드/android-BluetoothChat-master_1byte/android-BluetoothChat-master/Application/src/main/AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from /home/keti/다운로드/android-BluetoothChat-master_1byte/android-BluetoothChat-master/Application/src/main/AndroidManifest.xml:26:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/keti/다운로드/android-BluetoothChat-master_1byte/android-BluetoothChat-master/Application/src/main/AndroidManifest.xml:27:5-80
+	android:name
+		ADDED from /home/keti/다운로드/android-BluetoothChat-master_1byte/android-BluetoothChat-master/Application/src/main/AndroidManifest.xml:27:22-78
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /home/keti/다운로드/android-BluetoothChat-master_1byte/android-BluetoothChat-master/Application/src/main/AndroidManifest.xml:29:5-73
+	android:name
+		ADDED from /home/keti/다운로드/android-BluetoothChat-master_1byte/android-BluetoothChat-master/Application/src/main/AndroidManifest.xml:29:22-71
+uses-permission#android.permission.BLUETOOTH
+ADDED from /home/keti/다운로드/android-BluetoothChat-master_1byte/android-BluetoothChat-master/Application/src/main/AndroidManifest.xml:30:5-67
+	android:name
+		ADDED from /home/keti/다운로드/android-BluetoothChat-master_1byte/android-BluetoothChat-master/Application/src/main/AndroidManifest.xml:30:22-65
+application
+ADDED from /home/keti/다운로드/android-BluetoothChat-master_1byte/android-BluetoothChat-master/Application/src/main/AndroidManifest.xml:32:5-64:19
+	android:label
+		ADDED from /home/keti/다운로드/android-BluetoothChat-master_1byte/android-BluetoothChat-master/Application/src/main/AndroidManifest.xml:35:9-41
+	android:icon
+		ADDED from /home/keti/다운로드/android-BluetoothChat-master_1byte/android-BluetoothChat-master/Application/src/main/AndroidManifest.xml:34:9-45
+	android:allowBackup
+		ADDED from /home/keti/다운로드/android-BluetoothChat-master_1byte/android-BluetoothChat-master/Application/src/main/AndroidManifest.xml:33:9-35
+	android:theme
+		ADDED from /home/keti/다운로드/android-BluetoothChat-master_1byte/android-BluetoothChat-master/Application/src/main/AndroidManifest.xml:36:9-40
+activity#com.example.android.bluetoothchat.MainActivity
+ADDED from /home/keti/다운로드/android-BluetoothChat-master_1byte/android-BluetoothChat-master/Application/src/main/AndroidManifest.xml:38:9-46:20
+	android:label
+		ADDED from /home/keti/다운로드/android-BluetoothChat-master_1byte/android-BluetoothChat-master/Application/src/main/AndroidManifest.xml:41:13-45
+	android:configChanges
+		ADDED from /home/keti/다운로드/android-BluetoothChat-master_1byte/android-BluetoothChat-master/Application/src/main/AndroidManifest.xml:40:13-63
+	android:name
+		ADDED from /home/keti/다운로드/android-BluetoothChat-master_1byte/android-BluetoothChat-master/Application/src/main/AndroidManifest.xml:39:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/keti/다운로드/android-BluetoothChat-master_1byte/android-BluetoothChat-master/Application/src/main/AndroidManifest.xml:42:13-45:29
+action#android.intent.action.MAIN
+ADDED from /home/keti/다운로드/android-BluetoothChat-master_1byte/android-BluetoothChat-master/Application/src/main/AndroidManifest.xml:43:17-68
+	android:name
+		ADDED from /home/keti/다운로드/android-BluetoothChat-master_1byte/android-BluetoothChat-master/Application/src/main/AndroidManifest.xml:43:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/keti/다운로드/android-BluetoothChat-master_1byte/android-BluetoothChat-master/Application/src/main/AndroidManifest.xml:44:17-76
+	android:name
+		ADDED from /home/keti/다운로드/android-BluetoothChat-master_1byte/android-BluetoothChat-master/Application/src/main/AndroidManifest.xml:44:27-74
+activity#com.example.android.bluetoothchat.DeviceListActivity
+ADDED from /home/keti/다운로드/android-BluetoothChat-master_1byte/android-BluetoothChat-master/Application/src/main/AndroidManifest.xml:58:9-62:63
+	android:label
+		ADDED from /home/keti/다운로드/android-BluetoothChat-master_1byte/android-BluetoothChat-master/Application/src/main/AndroidManifest.xml:61:13-50
+	android:configChanges
+		ADDED from /home/keti/다운로드/android-BluetoothChat-master_1byte/android-BluetoothChat-master/Application/src/main/AndroidManifest.xml:60:13-63
+	android:theme
+		ADDED from /home/keti/다운로드/android-BluetoothChat-master_1byte/android-BluetoothChat-master/Application/src/main/AndroidManifest.xml:62:13-61
+	android:name
+		ADDED from /home/keti/다운로드/android-BluetoothChat-master_1byte/android-BluetoothChat-master/Application/src/main/AndroidManifest.xml:59:13-47
+uses-sdk
+INJECTED from /home/keti/다운로드/android-BluetoothChat-master_1byte/android-BluetoothChat-master/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/keti/다운로드/android-BluetoothChat-master_1byte/android-BluetoothChat-master/Application/src/main/AndroidManifest.xml
+INJECTED from /home/keti/다운로드/android-BluetoothChat-master_1byte/android-BluetoothChat-master/Application/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v4:27.0.2] /home/keti/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/886ae277ecf3f6e1724f75632cd15387/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /home/keti/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/886ae277ecf3f6e1724f75632cd15387/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:27.0.2] /home/keti/.gradle/caches/transforms-1/files-1.1/gridlayout-v7-27.0.2.aar/76b79617b232468549b0bb716e3deece/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:27.0.2] /home/keti/.gradle/caches/transforms-1/files-1.1/gridlayout-v7-27.0.2.aar/76b79617b232468549b0bb716e3deece/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/keti/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/e2b81f57d12ae451571c53241b22b531/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/keti/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/e2b81f57d12ae451571c53241b22b531/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/keti/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/af21b2b1c30c550b6e2df506bb86fe47/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/keti/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/af21b2b1c30c550b6e2df506bb86fe47/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/keti/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/90572edbc06135258436daf8d7f41658/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/keti/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/90572edbc06135258436daf8d7f41658/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/keti/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/9c48accf785dbb3f77ef2197d3b4fe69/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/keti/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/9c48accf785dbb3f77ef2197d3b4fe69/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/keti/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/edd3691424ebb7a943265dc35ab7c9c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/keti/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/edd3691424ebb7a943265dc35ab7c9c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/keti/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/964c642ed0a22170065fdf449d0dc8aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/keti/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/964c642ed0a22170065fdf449d0dc8aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/keti/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/bc114c99837777641aa4992dd5167b1c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/keti/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/bc114c99837777641aa4992dd5167b1c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/keti/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/a940c016f28e5166dcd78fbad8fee6ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/keti/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/a940c016f28e5166dcd78fbad8fee6ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/keti/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/c9290dc27fe8c8bba1b87028cb590059/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/keti/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/c9290dc27fe8c8bba1b87028cb590059/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/keti/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/2c95a6af7d060a7ca3c488d33ab4be7b/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/keti/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/2c95a6af7d060a7ca3c488d33ab4be7b/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/keti/다운로드/android-BluetoothChat-master_1byte/android-BluetoothChat-master/Application/src/main/AndroidManifest.xml
+INJECTED from /home/keti/다운로드/android-BluetoothChat-master_1byte/android-BluetoothChat-master/Application/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/keti/다운로드/android-BluetoothChat-master_1byte/android-BluetoothChat-master/Application/src/main/AndroidManifest.xml
+		ADDED from /home/keti/다운로드/android-BluetoothChat-master_1byte/android-BluetoothChat-master/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/keti/다운로드/android-BluetoothChat-master_1byte/android-BluetoothChat-master/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/keti/다운로드/android-BluetoothChat-master_1byte/android-BluetoothChat-master/Application/src/main/AndroidManifest.xml
+		ADDED from /home/keti/다운로드/android-BluetoothChat-master_1byte/android-BluetoothChat-master/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/keti/다운로드/android-BluetoothChat-master_1byte/android-BluetoothChat-master/Application/src/main/AndroidManifest.xml
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /home/keti/다운로드/android-BluetoothChat-master_1byte/android-BluetoothChat-master/Application/src/main/AndroidManifest.xml:53:13-55:54
+	android:resource
+		ADDED from /home/keti/다운로드/android-BluetoothChat-master_1byte/android-BluetoothChat-master/Application/src/main/AndroidManifest.xml:55:17-51
+	android:name
+		ADDED from /home/keti/다운로드/android-BluetoothChat-master_1byte/android-BluetoothChat-master/Application/src/main/AndroidManifest.xml:54:17-67

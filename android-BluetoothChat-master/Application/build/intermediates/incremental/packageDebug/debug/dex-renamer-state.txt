@@ -1,0 +1,19 @@
+#Thu Jan 24 14:10:00 KST 2019
+path.1=classes.dex
+path.0=classes.dex
+renamed.5=classes6.dex
+renamed.4=classes5.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.5=/home/keti/다운로드/android-BluetoothChat-master_1byte/android-BluetoothChat-master/Application/build/intermediates/transforms/dexMerger/debug/17
+base.4=/home/keti/다운로드/android-BluetoothChat-master_1byte/android-BluetoothChat-master/Application/build/intermediates/transforms/dexMerger/debug/14
+base.3=/home/keti/다운로드/android-BluetoothChat-master_1byte/android-BluetoothChat-master/Application/build/intermediates/transforms/dexMerger/debug/15
+base.2=/home/keti/다운로드/android-BluetoothChat-master_1byte/android-BluetoothChat-master/Application/build/intermediates/transforms/dexMerger/debug/12
+base.1=/home/keti/다운로드/android-BluetoothChat-master_1byte/android-BluetoothChat-master/Application/build/intermediates/transforms/dexMerger/debug/13
+base.0=/home/keti/다운로드/android-BluetoothChat-master_1byte/android-BluetoothChat-master/Application/build/intermediates/transforms/dexMerger/debug/16
+path.5=classes.dex
+path.4=classes.dex
+path.3=classes.dex
+path.2=classes.dex

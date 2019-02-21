@@ -1,0 +1,4 @@
+#Tue Jan 29 14:30:36 KST 2019
+base.0=/home/keti/다운로드/android-BluetoothChat-master_1byte/android-BluetoothChat-master/Application/build/intermediates/transforms/dexMerger/debug/2
+path.0=classes.dex
+renamed.0=classes.dex
